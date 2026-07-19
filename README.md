@@ -6,4 +6,4 @@
     > JavaScript
 
 ### Description: 
-    > A basic game that brings forth the concepts of html, css and javascript.
+    > A basic game that brings forth the concepts of HTML, CSS and JavaScript.
